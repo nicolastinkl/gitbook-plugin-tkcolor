@@ -3,12 +3,13 @@ gitbook-plugin-tkcolor
 
 Vim code  style tkcolor for your Gitbook
 
-1. Install in your book using
+- 1. Install in your book using
 ```
 $ npm install --save gitbook-plugin-tkcolor
 
 ```
-2. Add the plugin string to your book.json:
+
+- 2. Add the plugin string to your book.json:
 
 ```
 {	
@@ -19,7 +20,7 @@ $ npm install --save gitbook-plugin-tkcolor
 
 ```
 
-3. Installing plugin
+- 3. Installing plugin
 
 `gitbook`->`plugins`->`install plugins'
 
