@@ -1,26 +1,19 @@
 {
-  "name": "gitbook-plugin-tkcolors",
+  "name": "gitbook-plugin-tkcolor",
+  "version": "1.0.0",
   "description": "Vim code style tkcolor for your Gitbook",
   "main": "index.js",
-  "version": "0.0.1",
-  "license": "Apache 2",
-  "author": "nicolastinkl <nicolastinkl@gmail.com>",
-  "engines": {
-    "gitbook": "*"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/nicolastinkl/gitbook-plugin-tkcolor",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nicolastinkl/gitbook-plugin-tkcolor.git"
+    "url": "git://github.com/nicolastinkl/gitbook-plugin-tkcolor.git"
   },
+  "author": "nicolastinkl",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/nicolastinkl/gitbook-plugin-tkcolor/issues"
   },
-  "dependencies": {
-    "cheerio": "*",
-    "underscore": "*"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  "homepage": "https://github.com/nicolastinkl/gitbook-plugin-tkcolor"
 }
