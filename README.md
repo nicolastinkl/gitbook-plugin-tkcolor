@@ -17,6 +17,7 @@ $ npm install --save gitbook-plugin-tkcolor
     
 }       tkcolor
 
+```
 
 3. Installing plugin
 
