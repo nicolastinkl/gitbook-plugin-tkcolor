@@ -23,4 +23,4 @@ $ npm install --save gitbook-plugin-tkcolor
 `gitbook`->`plugins`->`install plugins'
 
 
-
+![](http://tinkl.qiniudn.com/tinkl2D57E5A9-8BCE-4A3E-8C9C-E84C40825D89.png)
