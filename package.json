@@ -15,6 +15,10 @@
   "bugs": {
     "url": "https://github.com/nicolastinkl/gitbook-plugin-tkcolor/issues"
   },
+<<<<<<< HEAD
   "homepage": "https://github.com/nicolastinkl/gitbook-plugin-tkcolor",
   "dependencies": {}
+=======
+  "homepage": "https://github.com/nicolastinkl/gitbook-plugin-tkcolor"
+>>>>>>> 78152cfb9faf04a8e7d87aa2567595f8bf14b1b4
 }
